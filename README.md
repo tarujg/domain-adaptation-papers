@@ -8,8 +8,26 @@ The paradigm of domain adaptation has burgeoned for solving this challenge using
 Some of the tasks we will be going through would be ranging from to computer vision, ranging from image classification, semantic segmentation, object detection, face recognition, person re-identification, video understanding and 3D reconstruction.
 
 ## List of Papers
-## 
-    a) "Learning Transferable Features with Deep Adaptation Networks." Mingsheng Long, Yue Cao, Jianmin Wang, Michael I. Jordan. ICML'15: Proceedings of the 32nd International Conference on International Conference on Machine Learning. 2015. 
+## 1. Divergence-based Domain Adaptation
+### [I] MMD - Maximum Mean Discrepancy
+    a) "Learning Transferable Features with Deep Adaptation Networks." Mingsheng Long, Yue Cao, Jianmin Wang, Michael I. Jordan. ICML'15 
+    b) "Deep Transfer Learning with Joint Adaptation Networks." Mingsheng Long, Han Zhu, Jianmin Wang, Michael I. Jordan. ICML'17
+### [II] CORAL - Correlation Alignment
+### [III] CCD - Contrastive Domain Discrepancy
+### [IV] Wasserstein metric
+
+## 2. Adversarial-based Domain Adaptation
+### [I] Generative
+    a) GANs
+### [II] Non-generative
+    a) DANN
+    b) ADDA
+    
+## 3. Reconstruction-based Domain Adaptation
+### [I] Encoder-Decoder
+    a) DRCN - Reconstruction Classification
+    b) DSN - Domain Separation
+### [II] Generative based approaches
 
 ### Resources
 1. [Tutorial on Transfer learning & Domain adaptation](https://www.youtube.com/watch?v=MIsSuWsZtKE)
