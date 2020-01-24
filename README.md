@@ -9,25 +9,25 @@ Some of the tasks we will be going through would be ranging from to computer vis
 
 ## List of Papers
 ## 1. Divergence-based Domain Adaptation
-### [I] MMD - Maximum Mean Discrepancy
-    a) "Learning Transferable Features with Deep Adaptation Networks." Mingsheng Long, Yue Cao, Jianmin Wang, Michael I. Jordan. ICML'15 
-    b) "Deep Transfer Learning with Joint Adaptation Networks." Mingsheng Long, Han Zhu, Jianmin Wang, Michael I. Jordan. ICML'17
-### [II] CORAL - Correlation Alignment
-### [III] CCD - Contrastive Domain Discrepancy
-### [IV] Wasserstein metric
+### [a] MMD - Maximum Mean Discrepancy
+    i) "Learning Transferable Features with Deep Adaptation Networks." Mingsheng Long, Yue Cao, Jianmin Wang, Michael I. Jordan. ICML'15 
+    ii) "Deep Transfer Learning with Joint Adaptation Networks." Mingsheng Long, Han Zhu, Jianmin Wang, Michael I. Jordan. ICML'17
+### [b] CORAL - Correlation Alignment
+### [c] CCD - Contrastive Domain Discrepancy
+### [d] Wasserstein metric
 
 ## 2. Adversarial-based Domain Adaptation
-### [I] Generative
-    a) GANs
-### [II] Non-generative
-    a) DANN
-    b) ADDA
+### [a] Generative
+    i) GANs
+### [b] Non-generative
+    i) DANN
+    ii) ADDA
     
 ## 3. Reconstruction-based Domain Adaptation
-### [I] Encoder-Decoder
-    a) DRCN - Reconstruction Classification
-    b) DSN - Domain Separation
-### [II] Generative based approaches
+### [a] Encoder-Decoder
+    i) DRCN - Reconstruction Classification
+    ii) DSN - Domain Separation
+### [b] Generative based approaches
 
 ### Resources
 1. [Tutorial on Transfer learning & Domain adaptation](https://www.youtube.com/watch?v=MIsSuWsZtKE)
