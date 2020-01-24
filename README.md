@@ -17,17 +17,17 @@ Some of the tasks we will be going through would be ranging from to computer vis
 ### [d] Wasserstein metric
 
 ## 2. Adversarial-based Domain Adaptation
-### [a] Generative
+### [e] Generative
     i) GANs
-### [b] Non-generative
+### [f] Non-generative
     i) DANN
     ii) ADDA
     
 ## 3. Reconstruction-based Domain Adaptation
-### [a] Encoder-Decoder
+### [g] Encoder-Decoder
     i) DRCN - Reconstruction Classification
     ii) DSN - Domain Separation
-### [b] Generative based approaches
+### [h] Generative based approaches
 
 ### Resources
 1. [Tutorial on Transfer learning & Domain adaptation](https://www.youtube.com/watch?v=MIsSuWsZtKE)
