@@ -14,6 +14,9 @@ Some of the tasks we will be going through would be ranging from to computer vis
 	- Mingsheng Long, Yue Cao, Jianmin Wang, Michael I. Jordan. ICML'15 
 - Deep Transfer Learning with Joint Adaptation Networks [[Paper](https://arxiv.org/abs/1605.06636)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/joint-adaptation-network.md)]
 	- Mingsheng Long, Han Zhu, Jianmin Wang, Michael I. Jordan. ICML'17
+- Unsupervised Domain Adaptation with Imbalanced Cross-Domain Data [[Paper](https://ieeexplore.ieee.org/document/7410826)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/imbalanced-cross-domain.md)]
+	- Tzu-Ming Harry Hsu, Wei-Yu Chen, Cheng-An Hou, Yao-Hung Hubert Tsai, Yi-Ren Yeh, and Yu-Chiang Frank Wang, ICCV '15
+
 ### [b] CORAL - Correlation Alignment
 ### [c] CCD - Contrastive Domain Discrepancy
 ### [d] Wasserstein metric
