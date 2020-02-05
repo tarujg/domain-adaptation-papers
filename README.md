@@ -18,6 +18,9 @@ Some of the tasks we will be going through would be ranging from to computer vis
 	- Tzu-Ming Harry Hsu, Wei-Yu Chen, Cheng-An Hou, Yao-Hung Hubert Tsai, Yi-Ren Yeh, and Yu-Chiang Frank Wang, ICCV '15
 
 ### [b] CORAL - Correlation Alignment
+- Minimal-Entropy Correlation Alignment for Unsupervised Deep Domain Adaptation [[Paper](https://arxiv.org/abs/1711.10288)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/min-entropy-coral.md)]
+	- Pietro Morerio, Jacopo Cavazza, Vittorio Murino. ICLR'18 
+
 ### [c] CCD - Contrastive Domain Discrepancy
 ### [d] Wasserstein metric
 
