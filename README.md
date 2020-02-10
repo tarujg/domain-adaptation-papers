@@ -23,6 +23,9 @@ Some of the tasks we will be going through would be ranging from to computer vis
 
 ### [c] CCD - Contrastive Domain Discrepancy
 ### [d] Wasserstein metric
+- Joint Distribution Optimal Transportation for Domain Adaptation [[Paper](https://arxiv.org/abs/1705.08848)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/joint-optimal-transport.md)]
+	- Nicolas Courty, Rémi Flamary, Amaury Habrard, Alain Rakotomamonjy, NIPS‘17
+
 
 ## 2. Adversarial-based Domain Adaptation
 ### [e] Generative
