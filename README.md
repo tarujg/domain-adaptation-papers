@@ -29,7 +29,7 @@ Some of the tasks we will be going through would be ranging from to computer vis
 
 ## 2. Adversarial-based Domain Adaptation
 ### [e] Generative
-- - Unsupervised Cross-Domain Image Generation [[Paper](https://arxiv.org/abs/1611.02200)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/cross-domain-image-gen.md)]
+- Unsupervised Cross-Domain Image Generation [[Paper](https://arxiv.org/abs/1611.02200)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/cross-domain-image-gen.md)]
         - Yaniv Taigman, Adam Polyak, Lior Wolf, ICLR‘17
 ### [f] Non-generative
 - DANN
