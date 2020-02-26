@@ -1,4 +1,4 @@
-# Unpaired Image-to-Image Translation with CycleGAN
+# Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
 
 Jun-Yan Zhu and Taesung Park, Phillip Isola and Alexei A. Efros, ICCV ‘2017
 

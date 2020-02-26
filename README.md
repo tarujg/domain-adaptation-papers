@@ -31,7 +31,7 @@ Some of the tasks we will be going through would be ranging from to computer vis
 ### [e] Generative
 - Unsupervised Cross-Domain Image Generation [[Paper](https://arxiv.org/abs/1611.02200)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/cross-domain-image-gen.md)]
 	- Yaniv Taigman, Adam Polyak, Lior Wolf, ICLR‘17
-- Unpaired Image-to-Image Translation with CycleGAN [[Paper](https://arxiv.org/abs/1703.10593)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/cycle-gans.md)]
+- Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[Paper](https://arxiv.org/abs/1703.10593)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/cycle-gans.md)]
 	- Jun-Yan Zhu and Taesung Park, Phillip Isola and Alexei A. Efros, ICCV‘17
 ### [f] Non-generative
 - DANN
