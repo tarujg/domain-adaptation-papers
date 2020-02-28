@@ -33,6 +33,8 @@ Some of the tasks we will be going through would be ranging from to computer vis
 	- Yaniv Taigman, Adam Polyak, Lior Wolf, ICLR‘17
 - Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[Paper](https://arxiv.org/abs/1703.10593)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/cycle-gans.md)]
 	- Jun-Yan Zhu and Taesung Park, Phillip Isola and Alexei A. Efros, ICCV‘17
+- InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[Paper](https://arxiv.org/pdf/1606.03657)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/infogans.md)]
+	- Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel, NeurIPS'16
 ### [f] Non-generative
 - DANN
 - ADDA
