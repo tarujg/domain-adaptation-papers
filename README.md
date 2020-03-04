@@ -41,8 +41,9 @@ Some of the tasks we will be going through would be ranging from to computer vis
     
 ## 3. Reconstruction-based Domain Adaptation
 ### [g] Encoder-Decoder
+- Domain Separation Networks [[Paper](https://arxiv.org/pdf/1608.0601)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/domain-separation.md)]
+	- Konstantinos Bousmalis, George Trigeorgis, Nathan Silberman, Dilip Krishnan, Dumitru Erhan, NeurIPS'16
 - DRCN - Reconstruction Classification
-- DSN - Domain Separation
 ### [h] Generative based approaches
 
 ### Resources
