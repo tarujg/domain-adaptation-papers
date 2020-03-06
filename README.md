@@ -15,7 +15,7 @@ Some of the tasks we will be going through would be ranging from to computer vis
 - Deep Transfer Learning with Joint Adaptation Networks [[Paper](https://arxiv.org/abs/1605.06636)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/joint-adaptation-network.md)]
 	- Mingsheng Long, Han Zhu, Jianmin Wang, Michael I. Jordan. ICML'17
 - Unsupervised Domain Adaptation with Imbalanced Cross-Domain Data [[Paper](https://ieeexplore.ieee.org/document/7410826)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/imbalanced-cross-domain.md)]
-	- Tzu-Ming Harry Hsu, Wei-Yu Chen, Cheng-An Hou, Yao-Hung Hubert Tsai, Yi-Ren Yeh, and Yu-Chiang Frank Wang, ICCV '15
+	- Tzu-Ming Harry Hsu, Wei-Yu Chen, Cheng-An Hou, Yao-Hung Hubert Tsai, Yi-Ren Yeh, and Yu-Chiang Frank Wang, ICCV'15
 
 ### [b] CORAL - Correlation Alignment
 - Minimal-Entropy Correlation Alignment for Unsupervised Deep Domain Adaptation [[Paper](https://arxiv.org/abs/1711.10288)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/min-entropy-coral.md)]
@@ -24,7 +24,7 @@ Some of the tasks we will be going through would be ranging from to computer vis
 ### [c] CCD - Contrastive Domain Discrepancy
 ### [d] Wasserstein metric
 - Joint Distribution Optimal Transportation for Domain Adaptation [[Paper](https://arxiv.org/abs/1705.08848)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/joint-optimal-transport.md)]
-	- Nicolas Courty, Rémi Flamary, Amaury Habrard, Alain Rakotomamonjy, NIPS‘17
+	- Nicolas Courty, Rémi Flamary, Amaury Habrard, Alain Rakotomamonjy, NeurIPS‘17
 
 
 ## 2. Adversarial-based Domain Adaptation
@@ -36,6 +36,11 @@ Some of the tasks we will be going through would be ranging from to computer vis
 - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[Paper](https://arxiv.org/pdf/1606.03657)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/infogans.md)]
 	- Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel, NeurIPS'16
 ### [f] Non-generative
+
+
+- Label Efficient Learning of Transferable Representations across Domains and Tasks[[Paper](https://arxiv.org/pdf/1608.06019)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/label-efficient-learning.md)]
+	 - Zelun Luo, Yuliang Zou, Judy Hoffman, Li Fei-Fei, NeurIPS'2017
+
 - DANN
 - ADDA
     
