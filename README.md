@@ -36,10 +36,13 @@ Some of the tasks we will be going through would be ranging from to computer vis
 - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[Paper](https://arxiv.org/pdf/1606.03657)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/infogans.md)]
 	- Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel, NeurIPS'16
 ### [f] Non-generative
+- Domain Adaptive Faster R-CNN for Object Detection in the Wild[[Paper](https://arxiv.org/pdf/1803.03243)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/domain-adaptive-fasterrcnn.md)]
+	 - Yuhua Chen, Wen Li, Christos Sakaridis, Dengxin Dai, Luc Van Gool, CVPR‘18
+
 
 
 - Label Efficient Learning of Transferable Representations across Domains and Tasks[[Paper](https://arxiv.org/pdf/1608.06019)] [[Review](https://github.com/tarujg/domain-adaptation-papers/blob/master/reviews/label-efficient-learning.md)]
-	 - Zelun Luo, Yuliang Zou, Judy Hoffman, Li Fei-Fei, NeurIPS'2017
+	 - Zelun Luo, Yuliang Zou, Judy Hoffman, Li Fei-Fei, NeurIPS'17
 
 - DANN
 - ADDA
